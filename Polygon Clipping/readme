@@ -1,0 +1,3 @@
+1. The clipping works with any concave clipping polygon input like triangle, rectangle, etc.
+2. The data1.txt contains the crab data with a triangular clipping polygon, the data2.txt contains a polygon that have multiple components after clipping.
+3. I used the polygon filling algorithm of the assignment-1 with few changes in the code(Made after feedback).
